@@ -1,0 +1,13 @@
+/node_modules
+/src/firebase/config.js
+
+/coverage
+
+/build
+.DS_Store
+.env.local
+.env.development.local
+
+/functions
+
+.env
